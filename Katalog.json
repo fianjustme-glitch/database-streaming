@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "judul": "SpongeBob SquarePants Ep 1",
+    "poster_url": "https://i.imgur.com/8N4Z42C.jpg",
+    "stream_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "kategori": "Kartun",
+    "deskripsi": "Episode kartun pilihan."
+  },
+  {
+    "id": 2,
+    "judul": "Tears of Steel (Sample Movie)",
+    "poster_url": "https://i.imgur.com/343M1rM.jpg",
+    "stream_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "kategori": "Film",
+    "deskripsi": "Film fiksi ilmiah open source."
+  }
+]
